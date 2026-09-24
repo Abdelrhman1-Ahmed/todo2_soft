@@ -1,17 +1,3 @@
-# todo2_app
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img width="426" height="771" alt="image" src="https://github.com/user-attachments/assets/acbbecee-9adb-4846-8c15-18a538558832" />
+<img width="427" height="772" alt="image" src="https://github.com/user-attachments/assets/1c661798-882f-4034-a212-d43e01f95012" />
+<img width="426" height="771" alt="image" src="https://github.com/user-attachments/assets/c03d9a19-3c63-41b5-82ad-e2e0ead23597" />
